@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="pr22-mathMZH:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pr22_mathMZH_jar</output-path>
+    <root id="archive" name="pr22-mathMZH.jar">
+      <element id="module-output" name="pr22-mathMZH" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-math-4.0-beta1/commons-math4-core-4.0-beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-math-4.0-beta1/commons-math4-legacy-4.0-beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-math-4.0-beta1/commons-math4-legacy-core-4.0-beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-math-4.0-beta1/commons-math4-legacy-exception-4.0-beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-math-4.0-beta1/commons-math4-neuralnet-4.0-beta1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/commons-math-4.0-beta1/commons-math4-transform-4.0-beta1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
